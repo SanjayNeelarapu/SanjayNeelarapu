@@ -9,7 +9,7 @@
 
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sanjay-neelarapu/)
+- LinkedIn: [Click here.:)](https://www.linkedin.com/in/sanjay-neelarapu/)
 - Email: sanjayneelarapu14@gmail.com
 
 
