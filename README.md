@@ -4,12 +4,12 @@
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages:** Python, Java, MATLAB
-- **Frameworks & Tools:** Flutter, Selenium, Streamlit, Scikit-learn
+- **Frameworks & Tools:** Scikit-learn, Flutter, Figma, Selenium, Streamlit
 - **Interests:** Software Development, Data Analysis.
 
 
 ## 📫 Connect With Me
-- LinkedIn: [Click here.:)](https://www.linkedin.com/in/sanjay-neelarapu/)
+- LinkedIn: https://www.linkedin.com/in/sanjay-neelarapu/
 - Email: sanjayneelarapu14@gmail.com
 
 
